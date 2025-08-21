@@ -1,18 +1,18 @@
 
 {
-  "name": "ARSLAN-MD-PAIR",
+  "name": "HIDDENXLEGEND-BOT",
   "version": "1.0.0",
   "description": "A multi-functional WhatsApp bot with web pairing functionality",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ARSLAN-MD",
-    "stop": "pm2 stop ARSLAN-MD",
-    "restart": "pm2 restart ARSLAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name HIDDENXLEGEND-BOT",
+    "stop": "pm2 stop HIDDENXLEGEND-BOT",
+    "restart": "pm2 restart HIDDENXLEGEND-BOT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Arslan-MD",
+  "author": "HIDDENXLEGEND",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
